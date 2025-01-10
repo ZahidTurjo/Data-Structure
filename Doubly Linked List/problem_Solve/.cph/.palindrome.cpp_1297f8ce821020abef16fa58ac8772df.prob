@@ -1,0 +1,1 @@
+{"name":"Local: palindrome","url":"c:\\Data Structure\\Doubly Linked List\\problem_Solve\\palindrome.cpp","tests":[{"id":1735873659286,"input":"10 20 30 10 10 -1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data Structure\\Doubly Linked List\\problem_Solve\\palindrome.cpp","group":"local","local":true}

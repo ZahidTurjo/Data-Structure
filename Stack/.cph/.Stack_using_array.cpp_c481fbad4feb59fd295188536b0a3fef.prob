@@ -1,0 +1,1 @@
+{"name":"Local: Stack_using_array","url":"c:\\Data Structure\\Stack\\Stack_using_array.cpp","tests":[{"id":1736087602554,"input":"4\n1 2 3 4 5","output":"40"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data Structure\\Stack\\Stack_using_array.cpp","group":"local","local":true}

@@ -10,8 +10,8 @@ int main(){
 
     // l.pop_back();
     // l.pop_front();
-    // cout<<*next(l.begin(),0)<<endl;
-    // l.insert(next(l.begin(),2),100);
+    cout<<*next(l.begin())<<endl;
+    l.insert(next(l.begin(),2),100);
     l.erase(next(l.begin(),3));
     for(int x:l){
         cout<<x<<" ";

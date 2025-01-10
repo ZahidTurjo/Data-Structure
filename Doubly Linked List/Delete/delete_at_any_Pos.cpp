@@ -31,15 +31,6 @@ void delete_at_any_pos(Node * head,int val){
     temp->next=temp->next->next;
     temp->next->prev=temp;
     delete deleteNode;
-
-
- 
-    
-    
-   
-  
-
-
 }
 int main(){
      Node * head=new Node(10);
