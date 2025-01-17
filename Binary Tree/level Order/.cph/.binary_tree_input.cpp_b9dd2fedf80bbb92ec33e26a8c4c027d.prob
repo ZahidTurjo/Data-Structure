@@ -1,0 +1,1 @@
+{"name":"Local: binary_tree_input","url":"c:\\Data Structure\\Binary Tree\\level Order\\binary_tree_input.cpp","tests":[{"id":1736857481057,"input":"10 20 30 40 -1 50 60 -1 -1 -1 -1 -1 -1","output":"df"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data Structure\\Binary Tree\\level Order\\binary_tree_input.cpp","group":"local","local":true}

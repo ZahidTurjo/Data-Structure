@@ -1,0 +1,1 @@
+{"name":"Local: sum_of_leaf_node","url":"c:\\Data Structure\\Binary Tree\\problem_solve\\sum_of_leaf_node.cpp","tests":[{"id":1737083046136,"input":"1 2 3 4 5 1 -1 -1 -1 10 -1 -1 -1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data Structure\\Binary Tree\\problem_solve\\sum_of_leaf_node.cpp","group":"local","local":true}

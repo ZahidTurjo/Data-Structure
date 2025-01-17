@@ -1,0 +1,1 @@
+{"name":"Local: count_nodes","url":"c:\\Data Structure\\Binary Tree\\count_nodes.cpp","tests":[{"id":1736860582686,"input":"10 20 30 40 -1 50 60 -1 -1 -1 -1 -1","output":""},{"id":1736860964581,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data Structure\\Binary Tree\\count_nodes.cpp","group":"local","local":true}
