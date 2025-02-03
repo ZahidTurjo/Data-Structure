@@ -1,0 +1,1 @@
+{"name":"Local: maps_count_words","url":"c:\\Data Structure\\maps_count_words.cpp","tests":[{"id":1737612418024,"input":"I love football He love football we love football ","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data Structure\\maps_count_words.cpp","group":"local","local":true}

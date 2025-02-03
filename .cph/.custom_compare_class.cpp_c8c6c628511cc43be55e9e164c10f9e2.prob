@@ -1,0 +1,1 @@
+{"name":"Local: custom_compare_class","url":"c:\\Data Structure\\custom_compare_class.cpp","tests":[{"id":1737584853607,"input":"3\nturjo 25 92\nrakib 12 85\nakib 7 96","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Data Structure\\custom_compare_class.cpp","group":"local","local":true}
